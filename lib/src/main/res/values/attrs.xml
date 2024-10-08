@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <declare-styleable name="SwipeMenuLayout">
+        <attr name="dview_swipeEnable" format="boolean" />
+        <attr name="dview_ios" format="boolean" />
+        <attr name="dview_leftSwipe" format="boolean" />
+    </declare-styleable>
+</resources>
