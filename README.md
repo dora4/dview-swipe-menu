@@ -2,6 +2,9 @@ dview-swipe-menu
 ![Release](https://jitpack.io/v/dora4/dview-swipe-menu.svg)
 --------------------------------
 
+#### 卡片
+![DORA视图 删除之力](https://github.com/user-attachments/assets/17e67ff0-aacd-4442-9d3c-63a3c1d8a876)
+
 #### Gradle依赖配置
 
 ```groovy
